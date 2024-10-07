@@ -1,0 +1,123 @@
+C:\Users\MSI\OneDrive\Desktop\Final-POS-SU4-v1\Midterm-POS-SU4\bin\Debug\Midterm-POS-SU4.exe.config
+C:\Users\MSI\OneDrive\Desktop\Final-POS-SU4-v1\Midterm-POS-SU4\bin\Debug\Midterm-POS-SU4.exe
+C:\Users\MSI\OneDrive\Desktop\Final-POS-SU4-v1\Midterm-POS-SU4\bin\Debug\Midterm-POS-SU4.pdb
+C:\Users\MSI\OneDrive\Desktop\Final-POS-SU4-v1\Midterm-POS-SU4\obj\Debug\Phoenix.csproj.AssemblyReference.cache
+C:\Users\MSI\OneDrive\Desktop\Final-POS-SU4-v1\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.LoginForm.resources
+C:\Users\MSI\OneDrive\Desktop\Final-POS-SU4-v1\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.MainForm.resources
+C:\Users\MSI\OneDrive\Desktop\Final-POS-SU4-v1\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.Properties.Resources.resources
+C:\Users\MSI\OneDrive\Desktop\Final-POS-SU4-v1\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.AddCategoryForm.resources
+C:\Users\MSI\OneDrive\Desktop\Final-POS-SU4-v1\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.AddCustomerForm.resources
+C:\Users\MSI\OneDrive\Desktop\Final-POS-SU4-v1\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.AddProductForm.resources
+C:\Users\MSI\OneDrive\Desktop\Final-POS-SU4-v1\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.AddRoleForm.resources
+C:\Users\MSI\OneDrive\Desktop\Final-POS-SU4-v1\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.AddSaleForm.resources
+C:\Users\MSI\OneDrive\Desktop\Final-POS-SU4-v1\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.AddSupplierForm.resources
+C:\Users\MSI\OneDrive\Desktop\Final-POS-SU4-v1\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.AddUserForm.resources
+C:\Users\MSI\OneDrive\Desktop\Final-POS-SU4-v1\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.CategoryForm.resources
+C:\Users\MSI\OneDrive\Desktop\Final-POS-SU4-v1\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.CustomerForm.resources
+C:\Users\MSI\OneDrive\Desktop\Final-POS-SU4-v1\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.ProductForm.resources
+C:\Users\MSI\OneDrive\Desktop\Final-POS-SU4-v1\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.RoleForm.resources
+C:\Users\MSI\OneDrive\Desktop\Final-POS-SU4-v1\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.SaleForm.resources
+C:\Users\MSI\OneDrive\Desktop\Final-POS-SU4-v1\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.SupplierForm.resources
+C:\Users\MSI\OneDrive\Desktop\Final-POS-SU4-v1\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.UserForm.resources
+C:\Users\MSI\OneDrive\Desktop\Final-POS-SU4-v1\Midterm-POS-SU4\obj\Debug\Phoenix.csproj.GenerateResource.cache
+C:\Users\MSI\OneDrive\Desktop\Final-POS-SU4-v1\Midterm-POS-SU4\obj\Debug\Phoenix.csproj.CoreCompileInputs.cache
+C:\Users\MSI\OneDrive\Desktop\Final-POS-SU4-v1\Midterm-POS-SU4\obj\Debug\Midterm-POS-SU4.exe
+C:\Users\MSI\OneDrive\Desktop\Final-POS-SU4-v1\Midterm-POS-SU4\obj\Debug\Midterm-POS-SU4.pdb
+C:\Users\MSI\OneDrive\Desktop\P H O E N I X\Midterm-POS-SU4\bin\Debug\Midterm-POS-SU4.exe.config
+C:\Users\MSI\OneDrive\Desktop\P H O E N I X\Midterm-POS-SU4\bin\Debug\Midterm-POS-SU4.exe
+C:\Users\MSI\OneDrive\Desktop\P H O E N I X\Midterm-POS-SU4\bin\Debug\Midterm-POS-SU4.pdb
+C:\Users\MSI\OneDrive\Desktop\P H O E N I X\Midterm-POS-SU4\obj\Debug\Phoenix.csproj.AssemblyReference.cache
+C:\Users\MSI\OneDrive\Desktop\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.LoginForm.resources
+C:\Users\MSI\OneDrive\Desktop\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.MainForm.resources
+C:\Users\MSI\OneDrive\Desktop\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.Properties.Resources.resources
+C:\Users\MSI\OneDrive\Desktop\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.AddCategoryForm.resources
+C:\Users\MSI\OneDrive\Desktop\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.AddCustomerForm.resources
+C:\Users\MSI\OneDrive\Desktop\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.AddProductForm.resources
+C:\Users\MSI\OneDrive\Desktop\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.AddRoleForm.resources
+C:\Users\MSI\OneDrive\Desktop\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.AddSaleForm.resources
+C:\Users\MSI\OneDrive\Desktop\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.AddSupplierForm.resources
+C:\Users\MSI\OneDrive\Desktop\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.AddUserForm.resources
+C:\Users\MSI\OneDrive\Desktop\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.CategoryForm.resources
+C:\Users\MSI\OneDrive\Desktop\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.CustomerForm.resources
+C:\Users\MSI\OneDrive\Desktop\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.ProductForm.resources
+C:\Users\MSI\OneDrive\Desktop\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.RoleForm.resources
+C:\Users\MSI\OneDrive\Desktop\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.SaleForm.resources
+C:\Users\MSI\OneDrive\Desktop\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.SupplierForm.resources
+C:\Users\MSI\OneDrive\Desktop\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.UserForm.resources
+C:\Users\MSI\OneDrive\Desktop\P H O E N I X\Midterm-POS-SU4\obj\Debug\Phoenix.csproj.GenerateResource.cache
+C:\Users\MSI\OneDrive\Desktop\P H O E N I X\Midterm-POS-SU4\obj\Debug\Phoenix.csproj.CoreCompileInputs.cache
+C:\Users\MSI\OneDrive\Desktop\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm-POS-SU4.exe
+C:\Users\MSI\OneDrive\Desktop\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm-POS-SU4.pdb
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\obj\Debug\Phoenix.csproj.AssemblyReference.cache
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.LoginForm.resources
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.MainForm.resources
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.Properties.Resources.resources
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.AddCategoryForm.resources
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.AddCustomerForm.resources
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.AddProductForm.resources
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.AddRoleForm.resources
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.AddSaleForm.resources
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.AddSupplierForm.resources
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.AddUserForm.resources
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.CategoryForm.resources
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.CustomerForm.resources
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.ProductForm.resources
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.RoleForm.resources
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.SaleForm.resources
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.SupplierForm.resources
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.UserForm.resources
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\obj\Debug\Phoenix.csproj.GenerateResource.cache
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\obj\Debug\Phoenix.csproj.CoreCompileInputs.cache
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm-POS-SU4.exe
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm-POS-SU4.pdb
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\Midterm-POS-SU4.exe.config
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\Midterm-POS-SU4.exe
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\Midterm-POS-SU4.pdb
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\DataAccessLibrary.dll
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\System.Buffers.dll
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\System.IO.Pipelines.dll
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\System.Memory.dll
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\System.Numerics.Vectors.dll
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\System.Text.Encodings.Web.dll
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\System.Text.Json.dll
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\System.ValueTuple.dll
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\Dapper.dll
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\DataAccessLibrary.pdb
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\DataAccessLibrary.dll.config
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\System.Buffers.xml
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\System.IO.Pipelines.xml
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\System.Memory.xml
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\System.Numerics.Vectors.xml
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\System.Text.Encodings.Web.xml
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\System.Text.Json.xml
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\System.ValueTuple.xml
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\Dapper.xml
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\obj\Debug\Phoenix.csproj.Up2Date
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\appsettings.json
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.AddStockForm.resources
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\DevExpress.Data.v24.1.dll
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\bin\Debug\DevExpress.Data.v24.1.xml
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.InvoiceForm.resources
+D:\C#-Projects\P H O E N I X\Midterm-POS-SU4\obj\Debug\Midterm_POS_SU4.views.ViewInvoiceForm.resources
