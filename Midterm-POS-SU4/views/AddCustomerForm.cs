@@ -21,7 +21,7 @@ namespace Midterm_POS_SU4.views
         public string _oldGender;
         public string _oldPhoneNumber;
         public string _oldAddress;
-        QueryOperations _operation = new QueryOperations(Program.GetConnectionString());
+        QueryOperations _operation = new QueryOperations(Main.GetConnectionString());
         public AddCustomerForm()
         {
             InitializeComponent();
@@ -61,8 +61,8 @@ namespace Midterm_POS_SU4.views
             string gender = cboGender.Text;
             string phoneNumber = txtPhoneNumber.Text;
             string address = txtAddress.Text;
-            int createBy = Program.UserId;
-            int updateBy = Program.UserId;
+            int createBy = Main.UserId;
+            int updateBy = Main.UserId;
             #endregion
             try
             {

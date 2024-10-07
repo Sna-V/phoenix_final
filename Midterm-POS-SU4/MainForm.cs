@@ -16,7 +16,7 @@ namespace Midterm_POS_SU4
         public MainForm()
         {
             InitializeComponent();
-            lblUserName.Text = Program.UserName;
+            lblUserName.Text = Main.UserName;
             _instance = this;
         }
         static MainForm _instance;

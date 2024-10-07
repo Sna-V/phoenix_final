@@ -14,7 +14,7 @@ namespace Midterm_POS_SU4.views
 {
     public partial class SaleForm : Form
     {
-        QueryOperations _operation = new QueryOperations(Program.GetConnectionString());
+        QueryOperations _operation = new QueryOperations(Main.GetConnectionString());
         private List<CustomerModel> customers = new List<CustomerModel>();
         int _rowNumber = 0;
         public SaleForm()
@@ -150,7 +150,7 @@ namespace Midterm_POS_SU4.views
                 var saleDetails = new List<SaleDetailModel>();
 
                 string phoneNumber = txtPhoneNumber.Text;
-                int userId = Program.UserId;
+                int userId = Main.UserId;
                 double totalAmount = Convert.ToDouble(lblTotalValue.Text.Replace(" USD", "").Trim());
                 int saleId = _operation.InsertSale(phoneNumber, userId, totalAmount);
                 foreach (DataGridViewRow row in dgvSales.Rows)

@@ -13,7 +13,7 @@ namespace Midterm_POS_SU4.views
         private string _oldGenter;
         private string _oldRoleName;
         private bool _oldStatus;
-        QueryOperations _operation = new QueryOperations(Program.GetConnectionString());
+        QueryOperations _operation = new QueryOperations(Main.GetConnectionString());
         public AddUserForm()
         {
             InitializeComponent();
@@ -74,8 +74,8 @@ namespace Midterm_POS_SU4.views
             {
                 status = 1;
             }
-            int createBy = Program.UserId;
-            int updateBy = Program.UserId;
+            int createBy = Main.UserId;
+            int updateBy = Main.UserId;
             #endregion
             try
             {

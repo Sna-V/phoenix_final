@@ -14,7 +14,7 @@ namespace Midterm_POS_SU4
 {
     public partial class LoginForm : Form
     {
-        QueryOperations operation = new QueryOperations(Program.GetConnectionString());
+        QueryOperations operation = new QueryOperations(Main.GetConnectionString());
         public LoginForm()
         {
             InitializeComponent();
@@ -31,8 +31,8 @@ namespace Midterm_POS_SU4
             var user = operation.IsUserEnabled(txtUsernameOrEmail.Text, txtPassword.Text);
             if (user.Status == "True")
             {
-                Program.UserId = user.UserId;
-                Program.UserName = user.UserName;
+                Main.UserId = user.UserId;
+                Main.UserName = user.UserName;
                 return true;
             }
             return false;

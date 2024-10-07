@@ -33,7 +33,7 @@ namespace Midterm_POS_SU4.views
                 _oldPhotoUrl = value;
             }
         }
-        QueryOperations _operation = new QueryOperations(Program.GetConnectionString());
+        QueryOperations _operation = new QueryOperations(Main.GetConnectionString());
         public AddProductForm()
         {
             InitializeComponent();
@@ -118,8 +118,8 @@ namespace Midterm_POS_SU4.views
             {
                 _photoUrl = _oldPhotoUrl;
             }
-            int createBy = Program.UserId;
-            int updateBy = Program.UserId;
+            int createBy = Main.UserId;
+            int updateBy = Main.UserId;
             #endregion
             try
             {

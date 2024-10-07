@@ -14,7 +14,7 @@ namespace Midterm_POS_SU4.views
 {
     public partial class SupplierForm : Form
     {
-        QueryOperations _operation = new QueryOperations(Program.GetConnectionString());
+        QueryOperations _operation = new QueryOperations(Main.GetConnectionString());
         public SupplierForm()
         {
             InitializeComponent();

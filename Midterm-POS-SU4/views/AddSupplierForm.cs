@@ -18,7 +18,7 @@ namespace Midterm_POS_SU4.views
         public string _oldSupplierName;
         public string _oldTel;
         public string _oldAddress;
-        QueryOperations _operation = new QueryOperations(Program.GetConnectionString());
+        QueryOperations _operation = new QueryOperations(Main.GetConnectionString());
         public AddSupplierForm()
         {
             InitializeComponent();
@@ -51,8 +51,8 @@ namespace Midterm_POS_SU4.views
             string supplierName = txtSupplierName.Text;
             string phoneNumber = txtPhoneNumber.Text;
             string address = txtAddress.Text;
-            int createBy = Program.UserId;
-            int updateBy = Program.UserId;
+            int createBy = Main.UserId;
+            int updateBy = Main.UserId;
             #endregion
             try
             {

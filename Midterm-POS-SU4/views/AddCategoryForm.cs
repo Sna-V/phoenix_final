@@ -17,7 +17,7 @@ namespace Midterm_POS_SU4.views
         public int _categoryId = 0;
         public string _oldCategory;
         public bool _oldStatus;
-        QueryOperations _operation = new QueryOperations(Program.GetConnectionString());
+        QueryOperations _operation = new QueryOperations(Main.GetConnectionString());
         public AddCategoryForm()
         {
             InitializeComponent();
@@ -48,8 +48,8 @@ namespace Midterm_POS_SU4.views
             {
                 status = 1;
             }
-            int createBy = Program.UserId;
-            int updateBy = Program.UserId;
+            int createBy = Main.UserId;
+            int updateBy = Main.UserId;
             #endregion
             try
             {

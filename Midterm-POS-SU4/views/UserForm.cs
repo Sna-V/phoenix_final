@@ -7,7 +7,7 @@ namespace Midterm_POS_SU4.views
 {
     public partial class UserForm : Form
     {
-        QueryOperations _operation = new QueryOperations(Program.GetConnectionString());
+        QueryOperations _operation = new QueryOperations(Main.GetConnectionString());
         public UserForm()
         {
             InitializeComponent();
@@ -101,7 +101,7 @@ namespace Midterm_POS_SU4.views
                     lastRowIndex--;
                     dgvUsers.Rows[lastRowIndex].Selected = true;
                 }
-                if (userId == Program.UserId)
+                if (userId == Main.UserId)
                 {
                     MainForm.Instance.Hide();
                     LoginForm loginForm = new LoginForm();

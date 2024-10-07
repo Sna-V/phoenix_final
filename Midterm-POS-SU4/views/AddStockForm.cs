@@ -13,7 +13,7 @@ namespace Midterm_POS_SU4.views
 {
     public partial class AddStockForm : Form
     {
-        QueryOperations _operation = new QueryOperations(Program.GetConnectionString());
+        QueryOperations _operation = new QueryOperations(Main.GetConnectionString());
         public AddStockForm()
         {
             InitializeComponent();
@@ -25,7 +25,7 @@ namespace Midterm_POS_SU4.views
             int quantity = Convert.ToInt32(txtQuantity.Text);
             double cost = Convert.ToDouble(txtCost.Text);
             double total = quantity * cost;
-            int createBy = Program.UserId;
+            int createBy = Main.UserId;
             if(InsertAddStock(_operation, supplier, productId, quantity, cost, total, createBy) == true)
             {
                 MessageBox.Show($"Stock is added successfully!", "P H O E N I X", MessageBoxButtons.OK, MessageBoxIcon.Information);
